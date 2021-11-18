@@ -10,7 +10,7 @@ public class Ej3Examen {
             System.out.println("Introduce dos numeros entre los que sacar los multiplos de tres");
             int inicio = introducir.nextInt();
             int fin = introducir.nextInt();
-        // Ahora el progaram los numero multiplos de 3 entre los dos numeros que nosotros queramos
+        // Ahora el progarama los numero multiplos de el primer numero que introducimos entre los dos numeros que nosotros queramos
         // ya que los introducimos nosotros por pantalla i tenemos la formula de que si el numero
         // al
             for (int i = inicio; i < fin; i += inicio) {
