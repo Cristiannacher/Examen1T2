@@ -74,7 +74,7 @@ public class EstadisticasEquipos {
         }
         return visitante;
     }
-
+    //es demasiado simple para comentar
     public static int calculaPuntos(int ganados, int perdidos, int empatados) {
 
         int pganados = ganados * 3;
@@ -85,7 +85,8 @@ public class EstadisticasEquipos {
 
         return puntostotales;
     }
-
+    //simplemente vamos recurriendo a los metodos creados anterirmente para que nos saque
+    //los valores que queremos
     public static void muestaEstadisticasEquipo(int[] resultados) {
 
 
